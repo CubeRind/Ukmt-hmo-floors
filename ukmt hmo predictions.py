@@ -1,6 +1,6 @@
 #MACHINE LEARNING - SUPERVISED LEARNING - REGRESSION - LINEAR REGRESSION
 
-#UNIVARIATE/SIMPLE/SINGLE - 1 column as inpit and 1 column as output
+#UNIVARIATE/SIMPLE/SINGLE - 1 column as input and 1 column as output
 #MULTIVARIATE/MULTIPLE - Many columns as input and 1 column as output
 
 #Dataset - https://raw.githubusercontent.com/CubeRind/Ukmt-hmo-floors/main/hmo.csv
